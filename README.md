@@ -1,5 +1,5 @@
 # Portfolio-Pablo-Cerchia
-Hola! Este es mi portfolio con todos los proyectos que hice hasta la fecha. En estos proyectos el lenguaje utilizado fue python. Además también hice uso de las librerías pandas, numpy, geopandas, spark, scikit-learn, folium y matplotlib. 
+Hola! Este es mi portfolio con todos los proyectos que hice hasta la fecha. En estos proyectos el lenguaje utilizado fue python y también hice uso de las librerías pandas, numpy, geopandas, spark, scikit-learn, folium y matplotlib. 
 
 El primer proyecto consistió en realizar una calculadora de la fórmula D'Hondt.
 
@@ -7,6 +7,6 @@ El segundo proyecto ("Análisis JxC por Circuitos Electorales") consiste en visu
 
 En la carpeta "Modelo Machine Learning Spotify" se ubica un proyecto en el cual el objetivo fue predecir de la mejor manera posible el género de las canciones. Para eso hice primero un modelo baseline y luego mediante RandomForest y XGBoost y el tuning de hiperparámetros traté de buscar el mejor modelo posible. Para esto tuve que splitear datasets, hacer feature engineering (en donde realicé imputación de nulos, One Hot Encoding, Mean Encoding, vectorizé valores con TF-IDF y normalicé valores con la librería scikit-learn), buscar/tunear hiperparametros mediante Randomized Search y buscar las features más importantes del dataset. También hice 6 visualizaciones que ayudan a explicar o entender el target.
 
-Luego se encuentran en las carpetas "TP Spark" y "TP Pandas" dos trabajos prácticos que hice en la materia "Organización de Datos" de la carrera de Ingeniería Informática de la UBA en donde se encuentran ejercicios y visualizaciones que hice con esas librerías para trabajos prácticos de dicha materia. 
+Luego se encuentran en las carpetas "TP Spark" y "TP Pandas" dos trabajos prácticos que hice en la materia "Organización de Datos" de la carrera de Ingeniería Informática de la UBA en donde se encuentran ejercicios y visualizaciones realizadas con esas librerías para trabajos prácticos de dicha materia. 
 
 
