@@ -1,5 +1,5 @@
 # Portfolio-Pablo-Cerchia
-Hola! Este es mi portfolio con todos los proyectos que hice hasta la fecha. En estos proyectos el lenguaje utilizado fue python y también hice uso de las librerías pandas, numpy, geopandas, spark, scikit-learn, folium y matplotlib. 
+Hola! Este es mi portfolio con todos los proyectos que hice hasta la fecha. En estos proyectos el lenguaje utilizado fue python y también hice uso de las librerías pandas, numpy, geopandas, spark, scikit-learn, streamlit, folium y matplotlib. 
 
 El proyecto más importante es uno que sigue construyéndose día a día. Es una página hecha con python en el framework Streamlit sobre las elecciones de 2023 en Argentina. Actualmente en la página se puede hacer lo siguiente:
 
